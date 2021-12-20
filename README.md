@@ -1,3 +1,3 @@
-[my profile](package-registry.png)
+![my profile](/package-registry.png)
 
 Joaquin Dedè
