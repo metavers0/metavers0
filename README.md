@@ -1,3 +1,5 @@
-![my profile](/package-registry.png)
-
-Joaquin Dedè
+<style>
+  body {
+  background-color: red;
+  }
+</style>
